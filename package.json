@@ -1,0 +1,15 @@
+{
+  "name": "mock-server-sample",
+  "version": "1.0.0",
+  "description": "mock server using express",
+  "main": "index.js",
+  "author": "bildeneins",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-cors": "^0.0.3",
+    "log4js": "^6.3.0"
+  },
+  "devDependencies": {}
+}
